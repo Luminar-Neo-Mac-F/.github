@@ -27,7 +27,7 @@ The <a href="#luminarNeo">Sky AI replacement tool</a> detects and replaces the s
 The <a href="#luminarNeo">Portrait AI suite</a> applies machine learning to portrait enhancement — Face AI refines facial features and removes blemishes; Skin AI applies adaptive skin retouching; Body AI provides body shape enhancement; Eye AI enhances eye detail. The <a href="#luminarNeo">Bokeh AI tool</a> adds or enhances background blur — detecting the subject from background and applying algorithmically computed lens blur to create the shallow depth-of-field appearance regardless of the original lens used.</p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/329386/m/luminar-ai-screenshot.png?v=1669015568" alt="Luminar Neo screenshot"/>
+  <img src="https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-3-min.jpg" alt="Luminar Neo screenshot"/>
 </p>
 
 <a href="#luminarNeo">Atmosphere AI</a> adds realistic fog, mist, and haze effects to photos — synthesizing volumetric atmospheric effects that add mood and depth in ways standard overlays cannot replicate. <a href="#luminarNeo">Structure AI</a> enhances texture and detail while protecting skin surfaces from over-sharpening — applying structure enhancement based on image content rather than uniformly.
